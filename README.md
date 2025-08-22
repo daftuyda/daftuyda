@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Void</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
 
 <h3 align="center">Most of my work is private due to company policies</h3>
 
