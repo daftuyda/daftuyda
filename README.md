@@ -1,8 +1,32 @@
-<h1 align="center">Hi, I'm Void</h1>
+# Void
 
-<h3 align="center">Most of my work is private due to company policies</h3>
+I create optimization tools for complex game systems.
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=daftuyda&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=daftuyda&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6">
-</p>
+Focused on optimization, clean architecture, and reproducible infrastructure.
+
+---
+
+## Work
+
+**UmaTools Ecosystem**  
+Data-driven web tools for Uma Musume Pretty Derby:
+- Skill optimization
+- Rating calculation
+- Build planning
+- Structured game data systems
+
+---
+
+## Stack
+
+React • TypeScript • Vite • Tailwind  
+Node.js • Python  
+Docker • Ubuntu • Nginx / Caddy  
+Cloudflare • GitHub Actions  
+
+---
+
+## Stats
+
+![Stats](https://github-stats-extended.vercel.app/api?username=daftuyda&show_icons=true&hide_border=true)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daftuyda&layout=compact&hide_border=true)
