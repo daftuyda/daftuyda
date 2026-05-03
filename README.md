@@ -21,7 +21,9 @@ Solvers, data pipelines, and self-hosted infrastructure.
 ## Stack
 
 React • TypeScript • Vite • Node • Python
+
 GLPK.js • resvg • opentype.js
+
 Docker • Ubuntu • Caddy • Cloudflare • Vercel • GitHub Actions
 
 ---
