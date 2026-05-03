@@ -10,7 +10,7 @@ Solvers, data pipelines, and self-hosted infrastructure.
 - Server-side SVG → PNG rendering with edge-cached OG and crawler-aware meta injection
 - OCR pipelines feeding fuzzy-match scoring logic
 - Reverse-engineering scoring formulas via regression on scraped datasets
-- Self-hosted Ubuntu / Caddy / Cloudflare; IBM Power Systems on the hardware side
+- Self-hosted Ubuntu / Caddy / Cloudflare
 
 ## Projects
 
