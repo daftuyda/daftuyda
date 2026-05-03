@@ -1,4 +1,4 @@
-# Void
+# Void / daftuyda
 
 Solvers, data pipelines, and self-hosted infrastructure.
 
@@ -15,8 +15,8 @@ Solvers, data pipelines, and self-hosted infrastructure.
 ## Projects
 
 - **[UmaTools](https://github.com/daftuyda/UmaTools)** — optimizer, calculator, OCR helper, PWA
-- **[Trackblazer](https://github.com/daftuyda/umamusume_trackblazer_scheduler)** — in-browser MILP scheduler
-- **[CustomCard](https://github.com/daftuyda/CustomCard)** — SSR profile cards with edge OG
+- **[Trackblazer Solver](https://github.com/daftuyda/umamusume_trackblazer_scheduler)** — in-browser MILP scheduler
+- **[CustomCard](https://github.com/daftuyda/CustomCard)** — Custom profile cards with edge OG
 
 ## Stack
 
@@ -28,5 +28,10 @@ Docker • Ubuntu • Caddy • Cloudflare • Vercel • GitHub Actions
 
 ---
 
-![Stats](https://github-stats-extended.vercel.app/api?username=daftuyda&show_icons=true&hide_border=true)
-![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daftuyda&layout=compact&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=daftuyda&show_icons=true&hide_border=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=daftuyda&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daftuyda&layout=compact&hide_border=true&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daftuyda&theme=tokyo-night&hide_border=true)
+
